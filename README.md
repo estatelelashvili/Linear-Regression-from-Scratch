@@ -1,2 +1,2 @@
 # Linear-Regression-from-Scratch
-Linear Regression from Scratch in just pure Python
+Linear Regression from Scratch in plain Python
